@@ -1,5 +1,4 @@
 # MosePay
-# 月光侠分期
 
 This Agreement is a contract between you (users, including natural persons and legal persons) and Shandong Hong Yuan Metwork Technology Co., Ltd. concerning the registration and service of the website. It is applicable to all the acts of registering and using the services of these platforms on the MosePay platform. ;
 
